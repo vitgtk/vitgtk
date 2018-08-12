@@ -1,0 +1,14 @@
+uuid: 66b913fc-7b89-4561-80ac-6ba5240e72b2
+name: 'My awesome site'
+mail: admin@vitgtk.by
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: ru
+default_langcode: ru
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

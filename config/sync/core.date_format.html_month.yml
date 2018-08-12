@@ -1,0 +1,10 @@
+uuid: 13ed5879-380e-4972-8c5b-3f5a8ea7eea2
+langcode: ru
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z7KuCUwM_WdTNvLcoltuX3_8d-s-8FZkTN6KgNwF0eM
+id: html_month
+label: 'HTML Месяц'
+locked: true
+pattern: Y-m
